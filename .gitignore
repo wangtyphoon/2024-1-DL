@@ -1,4 +1,8 @@
+# 忽略所有檔案
 *
+
+# 允許所有 .py 檔案
 !*.py
+
 # 允許 .gitignore 文件
 !.gitignore
